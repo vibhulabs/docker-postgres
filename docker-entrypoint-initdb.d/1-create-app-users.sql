@@ -1,0 +1,2 @@
+CREATE USER gdb WITH PASSWORD 'MySecretPassw0rd';
+CREATE DATABASE garuda OWNER gdb;
